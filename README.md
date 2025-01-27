@@ -24,3 +24,6 @@ public class MatrixAddition {
         }
     }
 }
+Output 
+8  10  12
+14 16  18
